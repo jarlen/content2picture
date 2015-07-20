@@ -36,7 +36,7 @@ public class WebviewToPictureActivity extends Activity implements
 		
 		mProgressDialog = new ProgressDialog(this);
 
-		mWebView.loadUrl("http://blog.csdn.net/jarlen/article/details/44877961");
+		mWebView.loadUrl("http://blog.csdn.net/jarlen/article/details/46931093");
 		mWebView.setVisibility(View.GONE);
 		
 		mProgressDialog.show();
